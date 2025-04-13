@@ -26,24 +26,24 @@ With information gathering and chatbot functions, users can make decision on sel
 ## Installation & Setup
 Follow these steps to get the project running locally:
 
-### 1. Clone the repository
+1. Clone the repository
 
 ```
 git clone https://github.com/Yingxuan-Selina-Bian/CruzHacksDentist.git
 cd CruzHacksDentist
 ```
-### 2. Create and activate a virtual environment
+2. Create and activate a virtual environment
 
 ```
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
-### 3. Install the required packages
+3. Install the required packages
 
 ```
 pip install -r requirements.txt
 ```
-### 4. Set up environment variables: 
+4. Set up environment variables: 
 Create a .env file in the root directory and add your Gemini API key:
 
 ```
