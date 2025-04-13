@@ -7,20 +7,20 @@ With information gathering and chatbot functions, users can make decision on sel
 ![image](https://github.com/user-attachments/assets/58caab88-8253-462f-b682-832b24d50649)
 
 ## Features
-* Output a list of dentists based on your input:
-  - Your location
-  - Type of dental service
-  - Preferred distance range
+📍 Output a list of dentists based on your input:
+- Your location
+- Type of dental service
+- Preferred distance range
 
-* Each dentist section includes:
-  - Dentist name
-  - Ratings
-  - Clinic location
-  - Contact information
-  - Distance from your location
-  - Interior image of the clinic
-  - Embedded Google Map
-  - Link to view the map in detail
+✨ Each dentist section includes:
+- Dentist name
+- Ratings
+- Clinic location
+- Contact information
+- Distance from your location
+- Interior image of the clinic
+- Embedded Google Map
+- Link to view the map in detail
 
 
 ## Installation & Setup
