@@ -18,6 +18,7 @@ This project is licensed under the Non-Commercial Public License (NCPL). This me
 - Modify the software
 - Share the software with others
 - Contribute to the project
+
 ❌ You cannot:
 - Use this software for commercial purposes
 - Sell this software or any modifications of it
