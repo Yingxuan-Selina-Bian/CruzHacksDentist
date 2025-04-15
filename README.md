@@ -3,7 +3,7 @@ This project is a {Personal Dentist Selection Toolkit} that support physical wel
 With information gathering and chatbot functions, users can make decision on selection and appointment of dentist easier, saving their time on selecting suitable dentist and enhance experience.
 
 ## Demo Video
-[Watch demo video]([https://youtu.be/VIDEO_ID](https://youtu.be/O1PMXHoB6uY))
+![demo video]([https://youtu.be/VIDEO_ID](https://youtu.be/O1PMXHoB6uY))
 
 
 ## Interface & Example
