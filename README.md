@@ -1,9 +1,9 @@
 # Personal Dentist Selection Tool
-This project is a {Personal Dentist Selection Toolkit} that support physical well-being with accessible services.
+This project is a **{Personal Dentist Selection Toolkit}** that support physical well-being with accessible services.
 With information gathering and chatbot functions, users can make decision on selection and appointment of dentist easier, saving their time on selecting suitable dentist and enhance experience.
 
 ## Demo Video
-[Watch the demo video](https://youtu.be/O1PMXHoB6uY))
+[Watch the demo video](https://youtu.be/O1PMXHoB6uY)
 
 ## Interface & Example
 ![image](https://github.com/user-attachments/assets/8d80abec-84d1-4ed2-9caf-57f3a1b92ee1)
